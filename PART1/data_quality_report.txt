@@ -1,0 +1,30 @@
+-- TASK 1.1 - ETL PIPELINE IMPLEMENTATION 
+
+
+====================================================
+FlexiMart ETL Data Quality Report
+Course: Data for Artificial Intelligence
+Module 2 � Assignment
+====================================================
+
+Customers Data
+Total records read              : 26
+Duplicate records removed       : 1
+Records with missing email dropped : 0
+Final records loaded            : 25
+
+Products Data
+Total records read              : 20
+Records with missing price fixed: 0
+Final records loaded            : 20
+
+Sales Data
+Total records read              : 41
+Records with missing customer_id: 3
+Records with missing product_id: 2
+Records with duplicates removed: 1
+Final records loaded            : 35
+
+ETL Process Status              : SUCCESS
+Errors Encountered              : None
+====================================================

@@ -1,0 +1,7 @@
+--PART 2 : NO SQL (MONGODB) REQUIREMENTS
+
+# MONGODB was used as the NOSQL database 
+MONGODB == 6.0
+
+# MONGODB COMPASS was used as the GUI tool for execution
+MONGODB COMPASS 
